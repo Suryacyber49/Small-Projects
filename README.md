@@ -28,10 +28,10 @@ A quick Python script that generates a SHA-256 hash from any input string, showc
 ## 🚀 Usage
 
 ### ➤ SSH Brute Force Tool
-![README](https://github.com/Suryacyber49/Small-Projects/blob/72f773870aa38e4c35492686c75e138fbfe3b002/SSH-Bruteforce%20/Readme.md)
+[README](https://github.com/Suryacyber49/Small-Projects/blob/72f773870aa38e4c35492686c75e138fbfe3b002/SSH-Bruteforce%20/Readme.md)
 
 ### ➤ SHA256 HASH GENERATOR
-![README](https://github.com/Suryacyber49/Small-Projects/blob/72f773870aa38e4c35492686c75e138fbfe3b002/SHA256_HASH_GENERATOR/Readme.md)
+[README](https://github.com/Suryacyber49/Small-Projects/blob/72f773870aa38e4c35492686c75e138fbfe3b002/SHA256_HASH_GENERATOR/Readme.md)
 
 **Install dependencies:**
 ```bash
