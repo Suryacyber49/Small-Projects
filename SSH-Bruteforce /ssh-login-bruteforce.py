@@ -1,8 +1,8 @@
 from pwn import *
 import paramiko
 
-host = '223.190.80.46'
-username = 'maahi'
+host = '(ip address)'
+username = 'username'
 attemps = 0
 
 with open("F:/htlm/Hacking python/top-20-common-SSH-passwords.txt", "r") as password_list:
