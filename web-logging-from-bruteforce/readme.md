@@ -28,7 +28,9 @@ website url: http://example.com/login
 
 ## 🧪 Example Output
 [X] Attempting user:password -> student:123456
+
 [X] Attempting user:password -> student:qwerty
+
 [>>>>>] Valid password 'letmein' found for user 'user'!
 
 ## 🔧 Customization
